@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+
+@import "tailwindcss";
+
+
+/* index.css */
+/* body {
+  .bg-finance-gradient {
+    background: linear-gradient(
+      135deg, */
+      /* rgba(212, 118, 97, 1) 0%,     orange - top left */
+      /* rgba(54, 31, 26, 1) 22%,     /* transition shade */
+      /* rgba(20, 20, 19, 1) 83%,     black */
+      /* rgba(30, 30, 247, 1) 100%    blue - bottom right */
+    /* );
+  }
+  
+} */ 
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #3f3f3f;
+}
+
