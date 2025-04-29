@@ -28,7 +28,7 @@ export default function Login() {
     <div className="flex justify-center items-center h-screen ">
       <form
         onSubmit={handleLogin}
-        className="bg-white p-6 rounded shadow-md w-96"
+        className="bg-gradient-to-r from-gray-300 via-gray-100 to-gray-400 py-2 px-6 text-black p-6 rounded shadow-md w-96"
       >
         <h2 className="text-2xl font-bold mb-4">Log In</h2>
         <input
